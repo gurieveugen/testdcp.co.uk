@@ -1099,6 +1099,10 @@ font-size: 1.2em;
 	-webkit-backface-visibility: hidden;
 }
 
+#content .project.small a img{
+	opacity: 1;
+}
+
 #content .project.small a:hover img{
 	opacity: .2;
 	position:relative;
